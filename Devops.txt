@@ -1,2 +1,3 @@
 Hi ra, I am learning Devops from today.
 Please help in understanding it.
+Its very hard to understand the session
